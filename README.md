@@ -4,7 +4,7 @@
 
 ### Project Architecture
 
-<img width="3000" height="200" src=>
+<img width="500" height="500" src=https://github.com/tohidhanfi20/Weather-Dashboard/blob/main/weather.png>
 
 #### Project Overview
 
