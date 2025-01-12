@@ -43,6 +43,7 @@ weather-dashboard/
   src/
     __init__.py
     weather_dashboard.py
+    test_weather.py
   tests/
   data/
   .env
