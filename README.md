@@ -4,6 +4,8 @@
 
 ### Project Architecture
 
+<img width="3000" height="200" src=>
+
 #### Project Overview
 
 This project is a **Weather Data Collection System** that demonstrates core DevOps principles by combining:
