@@ -48,6 +48,7 @@ weather-dashboard/
   .env
   .gitignore
   requirements.txt
+
 ## Setup Instructions
 1. Clone the repository:
 --bash
@@ -82,7 +83,3 @@ Implement data visualization
 Add more cities
 Create automated testing
 Set up CI/CD pipeline
-
-
-
-'''bash
