@@ -55,7 +55,7 @@ weather-dashboard/
 ## Setup Instructions
 1. Clone the repository:
 --bash
-git clone https://github.com/tohidhanfi20/weather-dashboard.git
+git clone https://github.com/tohidhanfi20/Weather-Dashboard.git
 
 3. Install dependencies:
 bashCopypip install -r requirements.txt
